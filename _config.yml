@@ -1,0 +1,7 @@
+
+title: Square-N-Circle Blog
+description: Explore Indian artistry, handcrafted products, and traditional craftsmanship.
+theme: minima
+url: "https://squarencircle.github.io"
+baseurl: "/Square-N-Circle"
+permalink: /blog/:title/
